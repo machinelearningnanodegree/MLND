@@ -16,7 +16,7 @@ Questions are asked by **you** (students) and answered by students with professi
 
 **Maxime [@m_leclerc]** : Udacity's Technical Interview is great and gives unlimited credits to practice interviews on [pramp.com](pramp.com). In addition, you get additional ML interview videos in the MLND. For me the book [Programming Interviews Exposed: Secrets to Landing Your Next Job](http://amazon.com/dp/B008SGNJOW) got me most of my jobs. It's a good complement to Udacity's material and walks you through from day 1 writing your resume all the way to negotiating your salary when you get an offer. I think that if you're going to do any coding in your job even if you apply for a ML position it's better to be prepared for coding interviews.
 
-**Kunal [@kyadwadkar]** : Another popular book has been [Cracking the Code](https://goo.gl/UErJAX). The book has good medium/hard difficultly level problems.
+**Kunal [@kyadwadkar]** : Another popular book has been [Cracking the Coding Interview](https://goo.gl/UErJAX). The book has good medium/hard difficultly level problems. I think Gayle (the author) has a related site [CareerCup](www.careercup.com) has crowdsourced information on real questions asked (though take those and the solutions with a grain of salt), and a site which conducts mock interviews (I personally have never used it, so cannot comment on its usefulness). Other resources I've found useful is [InterviewCake](www.interviewcake.com) which I've used mainly for design interview preparation and [The Algorithm Design Handbook](https://goo.gl/oHrnkO) to brush up on your algorithms.
 
 ##Q: Do you think that by finishing the Machine Learning Nanodegree (MLND) the student will be fully prepared for the job?
 
@@ -44,3 +44,6 @@ I'll update this more later when I have more, time, but there are a number of fa
 
 ##Q:  What kinds of jobs have ND+ graduates received?
 **Gilad [@giladgressel]**:  Same as above for now.
+
+##Q: I'm planning to switch careers and Machine Learning/Data Science is a career option I'd like to explore. Do you have any resources to help ? 
+**Kunal [@kunalyadwadkar]**: I highly recommend the book [Working Identity - Herminia Ibarra](https://goo.gl/3DI8V0) as a good place to go to when exploring alternative careers in general. Besides that, I found this video on [how to be a data scientist in 6 months](https://goo.gl/ABCvRc) to be a good resource. Tips therein (on how to stay focused, to network etc) are useful, but take the title with a grain of salt - everyone is different. You may take longer (or shorter) time to get to a job which satisfies you. 
