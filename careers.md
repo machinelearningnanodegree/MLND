@@ -22,6 +22,8 @@ Want to add your experience? : You can make a pull request [here](https://github
 
 **Gilad [@giladgressel]**: Another good practice site [leetcode](https://leetcode.com/)
 
+**Ankit [@ankitshah009]**: Another famous website for Machine learning [machinelearningmastery] (http://machinelearningmastery.com). Found website [geekforgeeks](http://www.geeksforgeeks.org/) as a good place to start with for coding interviews. 
+
 ##Q: Do you think that by finishing the Machine Learning Nanodegree (MLND) the student will be fully prepared for the job?
 
 **Gilad [@giladgressel]**:  No, honestly I don't.  But - I also don't think a student with a PHD would be fully prepared for the job either.  I don't believe that school educates you for how to do a job, schools teach you the _skills_ that you need to learn how to do your job.  Any job that you start will have a learning curve, and you will have to learn at the job.  Definitely prior experiences will help and guide this, but you will still have to learn at that job.
